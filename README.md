@@ -29,3 +29,5 @@ The dataset was split into 50% training and 50% testing to evaluate the model pe
 ## Approach
 
 KNN yielded the best results, which we attribute to its local proximity nature and effective parameter tuning. The project utilizes this model to predict NBA player ratings based on their salaries.
+
+## For further information and full results please check "ML - Final Project.pdf"
